@@ -1,4 +1,4 @@
-###⚡ woococo world ⚡
+### woococo world ⚡
 
 <!--
 **woococo/woococo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
