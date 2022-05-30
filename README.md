@@ -26,5 +26,6 @@
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=woococo&show_icons=true&theme=dark)  
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=p5woo9)](https://solved.ac/p5woo9)
+[![백준티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=p5woo9)](https://solved.ac/p5woo9)
 
 </div>
