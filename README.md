@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><br>
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><br><br> 
+  
+  [![백준티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=p5woo9)](https://solved.ac/p5woo9)
  
 ### 🐣  
 
@@ -25,6 +27,4 @@
   
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=woococo&show_icons=true&theme=dark)  
   
-[![백준티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=p5woo9)](https://solved.ac/p5woo9)
-
 </div>
