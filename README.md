@@ -1,33 +1,81 @@
-<div align=center>
+<div align="center">
 
-## 🌱 성장중인 개발 꿈나무 🌱
+# Hey, I'm a Data Engineer ⚡
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoococo&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=woococo&edge_flat=false"/></a>
+### I build things, try new challenges, and turn data into something useful.
 
-### ⚡ STACK ⚡
-  
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><br><br> 
-  
-  [![백준티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=p5woo9)](https://solved.ac/p5woo9)
- 
-### 🐣  
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woococo&layout=compact)](https://github.com/woococo/github-readme-stats)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-111827?style=flat-square)
+![Data Science](https://img.shields.io/badge/Data%20Science-8B5CF6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2563EB?style=flat-square)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square\&logo=splunk\&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-22C55E?style=flat-square)
 
-### 🌟
-  
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=woococo&show_icons=true&theme=dark)  
-  
 </div>
 
+---
 
+## About Me
 
+I’m a Data Science major who enjoys building new things and taking on challenges.
+These days, I’m exploring data engineering, security data, and ways to make data workflows more practical and efficient.
+
+---
+
+## What I’m Into
+
+```text
+Data Engineering
+Data Science
+Data Pipeline
+Data Analysis
+Security Data
+Workflow Automation
+Dashboard UX
+Splunk
+```
+
+---
+
+## Tech I Use
+
+```text
+Python        SQL        Splunk
+Pandas        REST API   JSON
+JavaScript    CSS        XML
+GitHub        Linux      Windows
+```
+
+---
+
+## Current Mood
+
+```text
+Build it.
+Test it.
+Break it.
+Fix it.
+Make it better.
+```
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=github_dark&hide_border=true" height="160" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Always building. Always learning.
+
+</div>
