@@ -1,4 +1,4 @@
-# Hi, I'm woococo 👋
+# Hi, I'm Jiyeon 👋
 
 > Data Science major interested in building practical systems, security data pipelines, and Splunk-based applications.
 
