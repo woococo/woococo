@@ -102,14 +102,6 @@ I’m currently building a portfolio of Splunk-based security operation applicat
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=woococo\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=woococo\&layout=compact\&theme=tokyonight)
-
----
-
 ## Motto
 
 > Build it. Break it. Improve it.
